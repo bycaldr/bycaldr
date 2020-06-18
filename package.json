@@ -1,0 +1,26 @@
+{
+  "name": "bycaldr",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "repository": "https://github.com/bycaldr/bycaldr.git",
+  "author": "Lukas Caldr <caldr.l@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "next": "9.4.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "@types/react": "^16.9.38",
+    "typescript": "^3.9.5"
+  }
+}
