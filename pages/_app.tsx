@@ -1,15 +1,12 @@
 import Head from "next/head";
 
-import "bootstrap/dist/css/bootstrap-grid.css";
+import "@fontsource/roboto";
+import "@fontsource/roboto/700.css";
 
 const App = ({ Component, pageProps }) => (
   <>
     <Head>
       <title>Lukas Caldr</title>
-      <link
-        href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
-        rel="stylesheet"
-      />
     </Head>
 
     <Component {...pageProps} />
