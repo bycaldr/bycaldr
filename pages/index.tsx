@@ -16,7 +16,7 @@ const Homepage = () => (
             proptech startup <a href="https://www.reas.cz">reas.cz</a>.
           </p>
           <p>
-            Currently helping developing projects as a freelance engineer.
+            Working as a full-stack engineer at <a href="https://myzenbase.com" target="_blank">myzenbase.com</a>.
             NodeJS and React enthusiast. Catch me on 👇
           </p>
           <div className="socials d-flex align-items-center justify-content-center">
