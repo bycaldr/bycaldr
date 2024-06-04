@@ -12,12 +12,10 @@ const Homepage = () => (
           </div>
           <h1>Lukáš Caldr</h1>
           <p>
-            Web platforms focused engineer based in Prague. Former CTO of
-            proptech startup <a href="https://www.reas.cz">reas.cz</a>.
+            Web platforms focused engineer based in Czech Republic. NodeJS and React enthusiast.
           </p>
           <p>
-            Working as a full-stack engineer at <a href="https://myzenbase.com" target="_blank">myzenbase.com</a>.
-            NodeJS and React enthusiast. Catch me on 👇
+            ATM building <a href="https://infigy.cz" target="_blank">infigy.cz</a> and <a href="https://getmagnet.io" target="_blank">getmagnet.io</a>. Catch me on 👇
           </p>
           <div className="socials d-flex align-items-center justify-content-center">
             {/* <a href="https://medium.com/@bycaldr">
