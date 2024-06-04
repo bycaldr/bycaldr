@@ -8,14 +8,23 @@ const Homepage = () => (
       <div className="container">
         <div className="inner">
           <div className="avatar">
-            <Image src="/avatar.jpg" layout="fill" alt="" />
+            <Image src="/avatar.jpg" width={200} height={200} alt="" />
           </div>
           <h1>Lukáš Caldr</h1>
           <p>
-            Web platforms focused engineer based in Czech Republic. NodeJS and React enthusiast.
+            Web platforms focused engineer based in Czech Republic. NodeJS and
+            React enthusiast.
           </p>
           <p>
-            ATM building <a href="https://infigy.cz" target="_blank">infigy.cz</a> and <a href="https://getmagnet.io" target="_blank">getmagnet.io</a>. Catch me on 👇
+            ATM building{" "}
+            <a href="https://infigy.cz" target="_blank">
+              infigy.cz
+            </a>{" "}
+            and{" "}
+            <a href="https://getmagnet.io" target="_blank">
+              getmagnet.io
+            </a>
+            . Catch me on 👇
           </p>
           <div className="socials d-flex align-items-center justify-content-center">
             {/* <a href="https://medium.com/@bycaldr">
